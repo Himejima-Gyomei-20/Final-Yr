@@ -114,7 +114,6 @@ cython_debug/
 
 # Local dev
 *.db
-*.pkl
 
 # OS files
 .DS_Store
